@@ -33,7 +33,7 @@ You will also need a code text editor, such as [VSCode](https://code.visualstudi
 1. If
 you're using [git](https://git-scm.com/) in your terminal,
 [clone locally](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) using
-`git clone https://github.com/paradiseofcreativity/login-form.git`, otherwise click on the green **Clone or
+`git clone https://github.com/paradiseofcreativity/paradiseofcreativity.github.io.git`, otherwise click on the green **Clone or
 download** button, then click **Download ZIP**
 4. Unzip the downloaded file then open the new directory in your favorite text editor (I like
 [VSCode](https://code.visualstudio.com/) and [Atom](https://atom.io/))

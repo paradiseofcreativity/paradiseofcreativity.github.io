@@ -14,6 +14,10 @@
 
 **Login Form** is a basic responsive page. Developed by [Parimal Nakrani](http://paradiseofcreativity.wordpress.com/)
 
+## Login Form Valid User Id and Password
+* User Id: **`paradise2021`**
+* Password: **`paradise`**
+
 ## Technologies and Dependencies
 
 This simple login form page uses [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML),
